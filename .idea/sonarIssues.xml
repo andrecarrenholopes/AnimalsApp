@@ -13,6 +13,61 @@
             <set />
           </value>
         </entry>
+        <entry key="C:/Git/Pagamentos/uzzo.app.android/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Git/Pagamentos/uzzo.app.android/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Git/Pagamentos/uzzo.app.android/app/src/main/java/com/therabank/uzzo/network/domain/register/response/OnfidoResponse.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Git/Pagamentos/uzzo.app.android/app/src/main/java/com/therabank/uzzo/sections/register/contract/RegisterContract.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Git/Pagamentos/uzzo.app.android/app/src/main/java/com/therabank/uzzo/sections/register/network/RegisterApi.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Git/Pagamentos/uzzo.app.android/app/src/main/java/com/therabank/uzzo/sections/register/presenter/RegisterPresenter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Git/Pagamentos/uzzo.app.android/app/src/main/java/com/therabank/uzzo/sections/register/usecase/RegisterUseCase.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Git/Pagamentos/uzzo.app.android/app/src/main/java/com/therabank/uzzo/sections/register/view/activity/RegisterActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Git/Pagamentos/uzzo.app.android/app/src/main/java/com/therabank/uzzo/sections/register/viewmodel/RegisterViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Git/Pagamentos/uzzo.app.android/app/src/main/java/com/therabank/uzzo/sections/register/viewmodel/RegisterViewModelImpl.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/Git/Pagamentos/uzzo.app.android/app/src/main/java/com/therabank/uzzo/support/onfido/OnfidoHelper.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="C:/Git/Pagamentos/uzzo.app.android/app/src/main/java/com/therabank/uzzo/support/utils/SchedulersManager.kt">
           <value>
             <set />
@@ -59,6 +114,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/example/animals/model/Model.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/animals/util/SharedPreferencesHelper.kt">
           <value>
             <set />
           </value>

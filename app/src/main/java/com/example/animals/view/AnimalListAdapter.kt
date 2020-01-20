@@ -3,6 +3,7 @@ package com.example.animals.view
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import androidx.navigation.Navigation
 import androidx.recyclerview.widget.RecyclerView
 import com.example.animals.R
 import com.example.animals.model.Animal
@@ -31,6 +32,10 @@ class AnimalListAdapter(private val animalList: ArrayList<Animal>) : RecyclerVie
     override fun onBindViewHolder(holder: AnimalViewHolder, position: Int) {
         holder.view.animalName.text = animalList[position].name
         holder.view.animalImage.loadImage(animalList[position].imageURL, getProgressDrawable(holder.view.context))
+        holder.view.animalLayout.setOnClickListener {
+            val action = ListFragmentDirections.actionDetail(animalList[position])
+            Navigation.findNavController(holder.view).navigate(action)
+        }
     }
 
     class AnimalViewHolder(val view: View) : RecyclerView.ViewHolder(view)
