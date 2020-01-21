@@ -63,6 +63,11 @@
             <set />
           </value>
         </entry>
+        <entry key="C:/Git/Pagamentos/uzzo.app.android/app/src/main/java/com/therabank/uzzo/support/customviews/LottieUzzoView.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="C:/Git/Pagamentos/uzzo.app.android/app/src/main/java/com/therabank/uzzo/support/onfido/OnfidoHelper.kt">
           <value>
             <set />
@@ -124,6 +129,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/example/animals/util/Util.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/example/animals/view/AnimalClickListener.kt">
           <value>
             <set />
           </value>
